@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "travel_lists",
+  "info": {
+    "singularName": "travel-list",
+    "pluralName": "travel-lists",
+    "displayName": "travel_list"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "date": {
+      "type": "json"
+    }
+  }
+}
